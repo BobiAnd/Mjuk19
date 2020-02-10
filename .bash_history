@@ -1,142 +1,3 @@
-pwd
-git
-pwd
-mkdir Gitshit
-cd Gitshit
-git init
-git config
-git config --global user."Bobi Andreevski"
-git config --global user.Bobi Andreevski
-git config --global user.bob.andreevski@gmail.com
-git config --list
-ls
-git ststus
-git status
-git status
-git add. 
-git add .
-git status
-git commit -m "added my files from my other projects"
-git add .
-ls
-git status
-git commit -m "added all my projects from other files"
-git config --global user.email"bob.andreevski@gmail.com"
-git config --global user.name "Bobi Andreevski"
-git commit -m "added all my projects from other files"
-git status
-ls
-cd gitshit
-git status
-git commit -m "added all my projects from other files"
-git config --global user.email "bob.andreevski@gmail.com"
-git config --global user.name "Bobi Andreevski"
-git commit -m "added all my projects from other files"
-git status
-git remote add origin https://github.com/BobiAndreevski/javagit.git
-git push -u origin master
-git config --global credential.helper store
-git pull
-git push
-git push -u origin master
-cd Gitshit
-git push -u origin master
-javac Assignment5.java
-java Assignment5
-ls
-pwd
-ls
-javac Assignment5.java
-java Assignment5
-javac MainDator.java
-javac MainDator.java
-javac MainDator.java
-javac pc.java
-javac Computer.java
-javac Macintosh.java
-javac MainDator.java
-javac MainDator.java
-javac MainDator.java
-javac MainDator.java
-javac MainDator.java
-java MainDator
-javac MainDator.java
-java MainDator
-javac MainDator.java
-java MainDator
-javac MainDator.java
-javac MainDator.java
-javac MainDator.java
-javac MainDator.java
-javac Macintosh.java
-javac Macintosh.java
-javac MainDator.java
-java MainDator
-javac MainDator.java
-javac MainDator.java
-javac MainDator.java
-javac MainDator.java
-javac MainDator.java
-java MainDator
-javac pc.java
-javac MainDator.java
-java MainDator
-javac pc.java
-javac MainDator.java
-java MainDator
-javac MainShape.java
-javac MainShape.java
-javac MainShape.java
-javac shape.java
-javac Shape.java
-javac Shape.java
-javac Shape.java
-javac Shape.java
-javac Shape.java
-javac Shape.java
-javac Circle.java
-javac Circle.java
-javac Circle.java
-javac Circle.java
-javac Circle.java
-javac Circle.java
-javac Circle.java
-javac Circle.java
-javac Circle.java
-javac Circle.java
-javac Circle.java
-javac Circle.java
-javac Circle.java
-javac Circle.java
-javac Circle.java
-javac Circle.java
-javac Circle.java
-javac Circle.java
-javac Circle.java
-javac Circle.java
-javac Circle.java
-javac MainShape.java
-javac MainShape.java
-javac MainShape.java
-javac Rectangle.java
-javac Rectangle.java
-javac Rectangle.java
-javac Rectangle.java
-javac Square.java
-javac Square.java
-javac Rectangle.java
-javac Rectangle.java
-javac Rectangle.java
-javac Rectangle.java
-javac Rectangle.java
-javac Rectangle.java
-javac Rectangle.java
-javac Rectangle.java
-javac Rectangle.java
-javac Rectangle.java
-javac MainShape.java
-javac MainShape.java
-javac MainShape.java
 javac MainShape.java
 javac MainShape.java
 javac MainShape.java
@@ -474,3 +335,166 @@ ls
 git init
 git .
 git add .
+pwd
+ls
+git init
+git add .
+git remote github https://github.com/BobiAndreevski/Jenkins-projekt.git
+git remote ~v
+echo "# Mjuk19" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/BobiAndreevski/Mjuk19.git
+git push -u origin master
+cd
+ls
+cd ..
+ls
+cd user
+cd ..
+ls
+cd c
+ls
+cd users
+ls
+cd boban
+ls
+cd ideaProjects
+ls
+cd mjuk19
+ls
+cd src
+ls
+cd mjuk_package
+cd mjuk19_package
+ls
+git remote add origin https://github.com/BobiAndreevski/Mjuk19.git
+git init
+git push -u origin master
+git remote add origin https://github.com/BobiAndreevski/Mjuk19.git
+git push -u origin master
+ls
+ls
+cd ..
+ls
+cd ..
+ls
+cd users
+ls
+ls
+cd c
+cd users
+cd boban
+ls
+idealprojects
+ideaprjects
+cd ideaprojects
+ls
+cd fooproject
+ls
+javac src/foo.java
+javac -cp src;lib/junit-platform-console-standalone-1.6.0.jar test\foo.java
+javac -cp src\;lib/junit-platform-console-standalone-1.6.0.jar test\foo.java
+javac -cp src\;lib/junit-platform-console-standalone-1.6.0.jar test\footest.java
+javac -cp src;lib\junit-platform-console-standalone-1.6.0.jar test\foo.java
+javac -cp src\;lib\junit-platform-console-standalone-1.6.0.jar test\foo.java
+javac -cp src\;lib\junit-platform-console-standalone-1.6.0.jar test\fooTest.java
+javac -cp src\;lib\junit-platform-console-standalone-1.6.0.jar test/fooTest.java
+javac -cp src\;lib/junit-platform-console-standalone-1.6.0.jar test\fooTest.java
+javac -cp src\;lib/junit-platform-console-standalone-1.6.0.jar test/fooTest.java
+java -jar lib\junit-platform-console-standalone-1.6.0.jar -cp src;test -c FooTest
+java -jar lib/junit-platform-console-standalone-1.6.0.jar -cp src;test -c FooTest
+java -jar lib/junit-platform-console-standalone-1.6.0.jar -cp src\;test -c FooTest
+java -jar lib/junit-platform-console-standalone-1.6.0.jar -cp src\;test -c FooTest
+java -jar lib/junit-platform-console-standalone-1.6.0.jar -cp src\;test -c FooTest
+java -jar lib/junit-platform-console-standalone-1.6.0.jar -cp src;test -c FooTest
+java -jar lib/junit-platform-console-standalone-1.6.0.jar -cp src\;test -c FooTest
+java -jar lib/junit-platform-console-standalone-1.6.0.jar -cp src\;test -c FooTest
+java -jar lib/junit-platform-console-standalone-1.6.0.jar -cp src;\test -c FooTest
+java -jar lib/junit-platform-console-standalone-1.6.0.jar -cp src;\test -c FooTest
+LS
+cd ..
+ls
+cd users
+ls
+cd boban
+ls
+cd ideaProjects
+ls
+cd fooproject
+java -jar lib/junit-platform-console-standalone-1.6.0.jar -cp src\;test -c FooTest
+javac -verson
+javac -version
+java -version
+rm test/footest.class
+rm src/foo.class
+javac src/foo.java
+javac -cp src\;lib/junit-platform-console-standalone-1.6.0.jar test/FooTest.java
+java -jar lib/junit-platform-console-standalone-1.6.0.jar -cp src\;test -c FooTest
+java -jar jenkins.war
+java -jar jenkins.war --httpPort=8080
+java -jar jenkins.war --httpPort=8080
+ls
+cd jenkins
+java -jar jenkins.war
+cd ..
+ls
+ls
+cd ..
+ls
+cd users/boban
+ls
+ideaproject
+cd ideaproject
+cd ideaprojects
+ls
+cd fooproject
+ls
+mvn compile
+mvn test
+git status
+git add -A
+git commit -m "13:36"
+git push
+git push
+git push
+git push
+git push
+git add -A
+git commit -m "13:51"
+git push
+git add -A
+git commit -m "13:54"
+git push
+git add -A
+git status
+git commit -m "13:58"
+git push
+ls
+Jenskinsfile
+cd Jenksinsfile
+cd Jenkinsfile
+git add -A
+git commit -m "14:45"
+git push
+git add -A
+git commit -m "15:20"
+git push
+git add -A
+git commit -m "15:32"
+git push
+git add -A
+git commit -m "15:34"
+git push
+git add -A
+git commit -m "15:37"
+git push
+git add -A
+git commit -m "15:40"
+git push
+git config
+java -jar jenkins.war --httpPort=8080
+ls
+cd jenkins
+java -jar jenkins.war --httpPort=8080
